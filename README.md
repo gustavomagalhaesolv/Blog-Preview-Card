@@ -2,7 +2,7 @@
 
 This project was created as part of a frontend mentor challenge to improve my HTML and CSS skills.
 
-In my second project, I focused on introducing more dynamism and cleaning up the code structure fundamental CSS development.
+In my second project, I focused on introducing more dynamism and cleaning up the code structure using fundamental CSS development.
 
 ## ✨ Features
 
