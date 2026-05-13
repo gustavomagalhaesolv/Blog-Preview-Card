@@ -17,7 +17,7 @@ At my second project, I focused on introject more dinamism and cleaning for the 
 
 ## 📸 Project Preview
 
-<img width="1366" height="694" alt="image" src="" />
+<img width="1366" height="694" alt="image" src="./assets/images/live preview.png" />
 
 
 ## 🚀 Challenge Goal
@@ -27,6 +27,6 @@ The goal of this challenge was to practice frontend development skills and build
 ## 📚 What I Learned
 
 - Better page structuring
-- UI improvement techniques
+- UI improvement techniquess
 - CSS positioning and layout
 - Writing cleaner frontend code
