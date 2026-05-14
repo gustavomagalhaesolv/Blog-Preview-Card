@@ -17,7 +17,7 @@ In my second project, I focused on introducing more dynamism and cleaning up the
 
 ## 📸 Project Preview
 
-<img width="1366" height="694" alt="image" src="./assets/images/live preview.png" />
+<img width="1366" height="694" alt="image" src="./assets/images/final solution.png" />
 
 - [Solution URL here](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 - [Live site URL here](https://gustavomagalhaesolv.github.io/Blog-Preview-Card/)
