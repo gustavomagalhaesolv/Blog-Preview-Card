@@ -46,12 +46,7 @@ figure{
 }
 
 .text h1 {
-    font-size: 1.25rem;
-    margin-bottom: 0.75rem;
-    font-weight: 800;
-}
-
-.text h2 {
+    color: hsl(0, 0%, 7%);
     font-size: 0.875rem;
     margin-bottom: 0.75rem;
     font-weight: 800;
@@ -61,15 +56,28 @@ figure{
     border-radius: 0.2rem;
 }
 
-.text h3 {
+.text h2 {
+    color: hsl(0, 0%, 7%);
     font-size: 0.875rem;
     margin-bottom: 0.75rem;
     font-weight: 500;
 }
 
+.text h3 {
+    color: hsl(0, 0%, 7%);
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+    font-weight: 800;
+    transition: 0.3s;
+}
+.text h3:hover {
+    color: hsl(47, 88%, 63%);
+}
+
 .text p {
-    font-size: 0.875rem;
+    font-size: 1rem;
     font-weight: 500;
+    line-height: 1.5rem;
     color: hsl(0, 0%, 42%)
 }
 
@@ -83,7 +91,8 @@ figure{
     width: 2rem;
 }
 
-.author h4 {
+.author h1 {
+    color: hsl(0, 0%, 7%);
     font-size: 0.75rem;
     font-weight: 800;
 }
